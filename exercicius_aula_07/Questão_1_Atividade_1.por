@@ -5,7 +5,7 @@ programa
     
     funcao inicio()
     {
-        escreva("Quanto há na sua carteirinha? \n")
+        escreva("Quanto há na sua carteirinha ? \n")
         leia(numero1)
 
         se (numero1 >= 2.00 e cartao == verdadeiro)

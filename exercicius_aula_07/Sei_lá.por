@@ -1,6 +1,6 @@
 programa{
     funcao inicio() {
-        escreva("Vou fazer meus exercicios de Portugol ")
+        escreva("Vou fazer meus exercicios de Portugol")
 
     }
 }
