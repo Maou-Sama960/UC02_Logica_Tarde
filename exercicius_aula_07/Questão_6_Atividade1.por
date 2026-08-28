@@ -6,10 +6,11 @@ programa {
     leia(media_geral)
     escreva("Qual a sua frequencia em porcentagem?(Sem o sinal de porcentagem)","\n")
     leia (porcentagem)
-    se(media_geral <= 8 e porcentagem <= 75){
-        escreva ("Que bom você passou!")
-    }senao{
-        escreva("Ficou bicho burro!!!")
+    se(media_geral >= 8 e porcentagem >= 75){
+        escreva ("Que bom que você passou!!!")
+    }
+senao{
+        escreva("Fico bicho burro!!!")
     }
 
   }
