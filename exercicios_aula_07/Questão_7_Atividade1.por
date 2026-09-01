@@ -13,7 +13,7 @@ programa {
         escreva ("compra bem sucedida!!!","\n")
         escreva("credito restante:",credito-total)
     }senao{
-        ("Compra falhou, na proxima vez vê se paga o cartão!!!")
+        ("Compra falhou!!!")
     }
   }
 }
