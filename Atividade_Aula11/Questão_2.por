@@ -1,8 +1,8 @@
 programa {
     real taxa_de_esgoto
     real valor_da_agua
-    real valor_total1 = valor_da_agua*agua_em_metros
-    real valor_total2 = valor_da_agua*agua_em_metros+taxa_de_esgoto
+    
+    
     inteiro agua_em_metros
     cadeia sim_ou_nao
     funcao inicio() {
@@ -25,6 +25,8 @@ programa {
 senao se(sim_ou_nao == "Não"){
          escreva ("Valor total: ",valor_total1)
 
-    
+
   }
 }
+real valor_total1 = valor_da_agua*agua_em_metros
+real valor_total2 = valor_da_agua*agua_em_metros+taxa_de_esgoto

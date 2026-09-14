@@ -1,4 +1,5 @@
 programa {
+// INICIO
 real Desconto_de_INSS
 real Desconto_de_imposto_de_renda
 real Outros_possiveis_descontos
@@ -6,6 +7,7 @@ real Salario_bruto
 cadeia sim_ou_nao1
 cadeia sim_ou_nao2
 funcao inicio() { 
+// PROCESSAMENTO
 escreva("Qual o valor do salario bruto?\n")
 leia(Salario_bruto)
 escreva("Qual o custo total do INSS?\n")
@@ -30,6 +32,7 @@ se(sim_ou_nao2 == "Sim"){
  escreva("Qual o valor?")
 leia(Outros_possiveis_descontos)
 real valor_total2 = Salario_bruto-(Desconto_de_INSS + Desconto_de_imposto_de_renda+ Outros_possiveis_descontos ) 
+// FIM
 escreva ("o valor total é: ",valor_total2)
 }senao se(sim_ou_nao2 == "Não"){
   real valor_total1= Salario_bruto-(Desconto_de_INSS + Desconto_de_imposto_de_renda)
