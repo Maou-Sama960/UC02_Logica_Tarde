@@ -13,9 +13,9 @@ leia(Desconto_de_INSS)
 escreva("Você paga imposto de renda?\n")
 leia(sim_ou_nao1)
 enquanto(sim_ou_nao1 != "Sim" e sim_ou_nao1 != "Não"){
-  escreva ("Só é permitido Sim ou Não")
-  escreva("Você paga imposto de renda?\n")
- leia(sim_ou_nao1)
+escreva ("Só é permitido Sim ou Não")
+escreva("Você paga imposto de renda?\n")
+leia(sim_ou_nao1)
 }
 se(sim_ou_nao1 == "Sim"){
 escreva ("Qual o custo total do imposto de renda?\n ")
@@ -24,15 +24,15 @@ leia(Desconto_de_imposto_de_renda)
 escreva ("possui mais algum valor que deva ser descontado?\n")
 leia (sim_ou_nao2)
 enquanto(sim_ou_nao2 != "Sim" e sim_ou_nao2 != "Não"){
-  escreva ("Só é permitido Sim ou Não")
-  escreva ("possui mais algum valor que deva ser descontado?\n")
+escreva ("Só é permitido Sim ou Não")
+escreva ("possui mais algum valor que deva ser descontado?\n")
 leia (sim_ou_nao2)
 }
 se(sim_ou_nao2 == "Sim"){
  escreva("Qual o valor?")
- real valor_total2 = Salario_bruto-(Desconto_de_INSS + Desconto_de_imposto_de_renda+ Outros_possiveis_descontos ) 
 leia(Outros_possiveis_descontos)
-escreva ("o valor total é: ",valor_total2)
+ real valor_total2 = Salario_bruto-(Desconto_de_INSS + Desconto_de_imposto_de_renda+ Outros_possiveis_descontos ) 
+ escreva ("o valor total é: ",valor_total2)
 }senao se(sim_ou_nao2 == "Não"){
   real valor_total1= Salario_bruto-(Desconto_de_INSS + Desconto_de_imposto_de_renda)
   escreva ("o valor total é: ", valor_total1)
