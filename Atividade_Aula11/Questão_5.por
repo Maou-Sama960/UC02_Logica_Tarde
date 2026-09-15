@@ -82,8 +82,8 @@ funcao inicio(){
       escreva ("valor total: ",valor_total3)
       
 }senao se(sim_ou_nao4 == "Não"){
-  real valor_total4= salario+adicional_de_ferias-(Desconto_de_INSS + Desconto_de_imposto_de_renda)
-  escreva ("o valor total é: ", valor_total4)
+ real valor_total4= salario+adicional_de_ferias-(Desconto_de_INSS + Desconto_de_imposto_de_renda)
+ escreva ("o valor total é: ", valor_total4)
 }
    }
 }
