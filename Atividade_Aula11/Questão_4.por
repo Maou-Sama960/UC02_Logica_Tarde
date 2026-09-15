@@ -1,5 +1,4 @@
 programa {
-// INICIO
 real Desconto_de_INSS
 real Desconto_de_imposto_de_renda
 real Outros_possiveis_descontos
@@ -7,7 +6,6 @@ real Salario_bruto
 cadeia sim_ou_nao1
 cadeia sim_ou_nao2
 funcao inicio() { 
-// PROCESSAMENTO
 escreva("Qual o valor do salario bruto?\n")
 leia(Salario_bruto)
 escreva("Qual o custo total do INSS?\n")
