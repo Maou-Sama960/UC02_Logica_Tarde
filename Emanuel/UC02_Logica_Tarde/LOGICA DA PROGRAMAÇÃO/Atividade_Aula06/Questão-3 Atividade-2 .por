@@ -6,3 +6,4 @@ programa {
  escreva("O valor total é:  ",numero1/4)  
   }
 }
+  

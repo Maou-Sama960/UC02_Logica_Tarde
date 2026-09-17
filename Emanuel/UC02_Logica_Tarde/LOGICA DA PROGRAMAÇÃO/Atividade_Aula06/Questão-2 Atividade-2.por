@@ -9,3 +9,4 @@ programa {
     escreva ("o valor total será:",numero1*numero2)
   }
 }
+ 

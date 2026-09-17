@@ -19,7 +19,7 @@ programa {
         escreva("Sobrepeso")
     }
     se(imc >= 30.0 e imc <= 34.9) {
-        escreva("Obesidade Grau I")
+       escreva("Obesidade Grau I")
     }
     se(imc >= 35.0 e imc <= 39.9) {
         escreva("Obesidade Grau II")

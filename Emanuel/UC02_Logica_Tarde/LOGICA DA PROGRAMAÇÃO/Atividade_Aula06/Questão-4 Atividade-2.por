@@ -9,3 +9,4 @@ programa {
     escreva("\n","O troco deve ser: ",numero2-numero1)
   }
 }
+ 

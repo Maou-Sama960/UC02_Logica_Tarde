@@ -9,3 +9,4 @@ programa {
     escreva("\n"," Nota Bimestral= ",(numero1+numero2)/2)
   }
 }
+ 

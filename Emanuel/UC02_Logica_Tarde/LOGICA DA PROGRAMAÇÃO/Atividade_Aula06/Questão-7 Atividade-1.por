@@ -6,4 +6,4 @@ programa {
     leia(nota1)
     escreva ("seu valor em dolar é: ",nota1/nota2,"\n")
   }
-}
+} 

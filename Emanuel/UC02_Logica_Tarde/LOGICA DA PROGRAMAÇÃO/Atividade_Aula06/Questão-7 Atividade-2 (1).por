@@ -12,3 +12,4 @@ programa {
     escreva("\n","valor total : ",(numero1-numero2)*numero3)
   }
 }
+ 

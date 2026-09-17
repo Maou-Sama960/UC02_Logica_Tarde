@@ -9,3 +9,4 @@ programa {
     escreva("o valor que será pago por cada é: ", valor/pessoas)
   }
 }
+ 

@@ -12,4 +12,4 @@ programa {
         escreva ("Que pena você não tem desconto!!!")
     }
   }
-}
+ }

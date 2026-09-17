@@ -9,3 +9,4 @@ programa {
     escreva("\n","Tempo pra carga total: ",(numero1-100)*numero2)
   }
 }
+ 

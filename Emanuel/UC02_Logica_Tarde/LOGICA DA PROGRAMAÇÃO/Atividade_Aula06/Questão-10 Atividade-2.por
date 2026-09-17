@@ -9,3 +9,4 @@ programa {
     escreva("calorias totais ingeridas: ",(numero1+numero2))
   }
 }
+ 

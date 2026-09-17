@@ -9,3 +9,4 @@ programa {
     escreva("\n","Faturamento bruto total: ",(numero1*numero2))
   }
 }
+ 

@@ -16,4 +16,4 @@ programa {
         escreva("No momento você não concluio todas as condições!!! ")
     }
   }
-}
+ }

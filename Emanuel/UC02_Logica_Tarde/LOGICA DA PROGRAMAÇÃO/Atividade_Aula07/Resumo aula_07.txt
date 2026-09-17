@@ -1,6 +1,6 @@
 Resumo_da_Aula_08
 
-Aprendemos os comandos básicos em português:
+ Aprendemos os comandos básicos em português:
  e - Todas as condições precisam ser verdadeiras
  não -Inverter o valor de uma condição 
  ou -Basta uma condição ser verdadeira

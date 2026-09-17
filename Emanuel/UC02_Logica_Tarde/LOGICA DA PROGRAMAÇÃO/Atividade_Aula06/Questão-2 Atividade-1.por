@@ -6,3 +6,4 @@ programa {
     escreva ("prazer em conhece-lo ",nome) 
   }
 }
+ 

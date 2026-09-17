@@ -7,3 +7,4 @@ programa {
     escreva("\n","valor total em km corrido: ",(numero1*2)/1000)
   }
 }
+ 

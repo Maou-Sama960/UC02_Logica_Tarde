@@ -9,3 +9,4 @@ programa {
     escreva("Lucro bruto: ",unid*valor)
   }
 }
+ 

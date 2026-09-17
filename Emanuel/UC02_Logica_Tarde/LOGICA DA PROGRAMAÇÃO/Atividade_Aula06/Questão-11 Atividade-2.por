@@ -9,4 +9,4 @@ programa {
     escreva("valor total: ",(numero1*numero2),"\n")
     escreva("valor total se for meia entrada: ",(numero1*numero2)/2)
   }
-}
+} 

@@ -9,3 +9,4 @@ programa {
     escreva("\n","valor total usado no mês: ",numero2*numero1)
   }
 }
+ 

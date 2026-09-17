@@ -7,3 +7,4 @@ programa {
     escreva ("antecessor: ",nota1-nota2," sucessor: ",nota1+nota2 ) 
   }
 }
+ 

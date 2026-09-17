@@ -11,4 +11,4 @@ funcao inicio() {
         escreva ("O estabelecimento estará fechado")
     }
   }
-}
+ }

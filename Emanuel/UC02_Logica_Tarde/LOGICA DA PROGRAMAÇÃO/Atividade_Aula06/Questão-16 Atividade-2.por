@@ -6,3 +6,4 @@ programa {
     escreva("\n","Valor total guardado: ",(numero1*4))
   }
 }
+ 

@@ -18,7 +18,7 @@ cadeia formula
     se (formula == "Subtração"){
     escreva ("O total será: ",algoritimo1-algoritimo2)
   }
-      se (formula == "Soma"){
+     se (formula == "Soma"){
     escreva ("O total será: ",algoritimo1+algoritimo2)
   }
 

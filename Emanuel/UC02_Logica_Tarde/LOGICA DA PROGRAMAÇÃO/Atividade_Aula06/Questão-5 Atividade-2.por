@@ -15,3 +15,4 @@ programa {
     escreva("\n","valor total: ",(numero1*numero3)+(numero2*numero4),"\n","valor total das arquibancadas: ",(numero2*numero4),"\n","valor total das cadeiras especiais: ",(numero1*numero3),"\n" )
   }
 }
+ 

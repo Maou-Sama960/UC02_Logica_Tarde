@@ -9,3 +9,4 @@ programa {
     escreva("o troco será: ",valor2-valor1)
   }
 }
+  

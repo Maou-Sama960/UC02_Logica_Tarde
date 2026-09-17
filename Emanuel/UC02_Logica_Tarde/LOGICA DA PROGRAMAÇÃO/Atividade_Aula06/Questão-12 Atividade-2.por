@@ -7,3 +7,4 @@ programa {
     escreva("quantos pontos no total ele ganhou: ",(numero1)*3)
   }
 }
+ 

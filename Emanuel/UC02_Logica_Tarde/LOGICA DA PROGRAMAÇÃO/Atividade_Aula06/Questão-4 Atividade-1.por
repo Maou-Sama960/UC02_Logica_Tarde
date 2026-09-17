@@ -9,3 +9,4 @@ programa {
     escreva ("resultado é: ",nota1+nota2) 
   }
 }
+ 

@@ -8,7 +8,7 @@ programa {
     
     se(codigo == "ABCD") {
       preco = 5.30
-    }
+    } 
     se(codigo == "XYPK") {
       preco = 6.00
     }

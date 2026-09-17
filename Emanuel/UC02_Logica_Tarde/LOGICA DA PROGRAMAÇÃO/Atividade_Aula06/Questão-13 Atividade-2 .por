@@ -9,3 +9,4 @@ programa {
     escreva ("O valor pra cada pessoa será:  ",numero1/numero2,"R$")
   }
 }
+ 

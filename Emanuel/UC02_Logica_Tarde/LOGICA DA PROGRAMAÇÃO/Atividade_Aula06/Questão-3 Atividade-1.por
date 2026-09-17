@@ -8,4 +8,4 @@ programa {
     leia (salario)
     escreva ("Nome do funcionario: ",nome,"\n","Salario: ",salario,"\n","atualmente o funcionario ",nome," recebe ",salario," R$")
   }
-}
+} 

@@ -9,3 +9,4 @@ programa {
     escreva("\n","Você corre por minuto: ",(numero1/numero2),"m")
   }
 }
+ 

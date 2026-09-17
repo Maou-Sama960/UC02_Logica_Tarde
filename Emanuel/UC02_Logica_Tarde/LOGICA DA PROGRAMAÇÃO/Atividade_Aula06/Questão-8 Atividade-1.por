@@ -11,7 +11,7 @@ programa {
     }
     se(codigo == 101) {
       preco = 1.3
-    }
+    } 
     se(codigo == 102) {
       preco = 1.5
     }

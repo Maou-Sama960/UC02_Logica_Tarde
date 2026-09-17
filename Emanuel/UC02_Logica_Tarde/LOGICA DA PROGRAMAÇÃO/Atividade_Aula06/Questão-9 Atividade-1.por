@@ -8,7 +8,7 @@ programa {
 
     se (codigo != 1001 ou codigo != 1324 ou codigo != 6548 ou codigo != 0987 ou codigo != 7623){
     retorne  escreva ("Codigo inválido, que pena!")
-    }
+    } 
     se(codigo == 1001) {
       preco = 5.32
     }

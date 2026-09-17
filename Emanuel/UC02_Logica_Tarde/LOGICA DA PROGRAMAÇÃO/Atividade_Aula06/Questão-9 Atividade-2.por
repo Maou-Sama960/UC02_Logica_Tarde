@@ -13,3 +13,4 @@ programa {
     escreva("o carro percorre por litro: ",(numero1/numero2),"km")
   }
 }
+ 

@@ -9,3 +9,4 @@ programa {
     escreva("Falta: ",valor1-valor2," kg")
   }
 }
+ 
