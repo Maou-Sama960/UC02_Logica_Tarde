@@ -54,7 +54,6 @@ funcao inicio(){
   escreva ("o valor total é: ", valor_total2)
 }
 }se(dias_de_ferias == 30){
-      salario_20_dias = (salario/30)*20
       escreva("Qual o custo total do INSS?\n")
       leia(Desconto_de_INSS)
       escreva("Você paga imposto de renda?\n")
